@@ -24,3 +24,5 @@ CONVEX_DEPLOYMENT=dev:modest-warthog-718 # team: poppy-e, project: voxafit-430e4
 NEXT_PUBLIC_CONVEX_URL=https://modest-warthog-718.convex.cloud
 
 ```
+#Deployed vercel application link
+https://voxa-fit-ai.vercel.app/
